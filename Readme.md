@@ -1,6 +1,5 @@
 ## INTRODUCTION 
-
-Here the tf*idf scores are calculated, data is preprocessed and a posting file is. Using that information  the cosine similarity scores for the query are obtained which then give us a list of high-scoring documents.
+Among a collection of html documents we are checking which documents are more likely to have certain combinations of terms. Here the tf*idf scores are calculated, data is preprocessed and a posting file is. Using that information  the cosine similarity scores for the query are obtained which then give us a list of high-scoring documents.
 
 I. Input
 
